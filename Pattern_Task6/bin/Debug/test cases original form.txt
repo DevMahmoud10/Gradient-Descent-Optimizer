@@ -1,0 +1,5 @@
+test case 1: (straight line)
+y = -4*x+12 + noise
+
+test case 2: (parabola)
+y = 2*x^2 + 3*x + 5 + noise

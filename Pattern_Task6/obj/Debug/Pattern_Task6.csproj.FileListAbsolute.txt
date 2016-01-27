@@ -1,0 +1,8 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\bin\Debug\Pattern_Task6.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\bin\Debug\Pattern_Task6.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\bin\Debug\Pattern_Task6.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\obj\Debug\Pattern_Task6.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\obj\Debug\Pattern_Task6.Properties.Resources.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\obj\Debug\Pattern_Task6.csproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\obj\Debug\Pattern_Task6.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task6\Pattern_Task6\obj\Debug\Pattern_Task6.pdb
